@@ -103,7 +103,7 @@ body {
 
 .second {
     height: 50vh;
-    padding:  52px 32px;
+    padding:  52px 32px 104px 32px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -111,13 +111,13 @@ body {
 
 .second h1 {
     text-align: center;
-    margin-bottom: 32px;
+    margin-bottom: 52px;
 }
 
 .second .conteiner {
     display: flex;
     justify-content: center;
-    gap: 26px;
+    gap: 36px;
     flex: 1;
 }
 

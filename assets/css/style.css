@@ -201,3 +201,12 @@ body {
     font-weight: 700;
     font-size: 18px;
 }
+
+.footer {
+    height: 13vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}

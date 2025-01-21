@@ -136,3 +136,30 @@ body {
     text-align: center;
 }
 
+.third {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E5E7EB;
+    padding: 100px 0;
+}
+
+.third .text {
+    max-width: 780px;
+    display: flex;
+    flex-direction: column;
+}
+
+.third .text p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
+}
+
+.third .text span {
+    font-weight: 700;
+    font-size: 26px;
+    color: black;
+    align-self: flex-end;
+}
